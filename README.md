@@ -1,6 +1,6 @@
 # unige-cermob
 
-Certify mobile app for the University of Geneva. For more about Certify, see [https://certify.community](https://certify.community).
+CERTIFY mobile app for the University of Geneva. For more about CERTIFY, see [https://certify.community](https://certify.community).
 
 ## Getting Started
 
