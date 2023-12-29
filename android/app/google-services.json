@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700596544480",
+    "firebase_url": "https://certify-a47d4.firebaseio.com",
+    "project_id": "certify-a47d4",
+    "storage_bucket": "certify-a47d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700596544480:android:ca6962738481d9e21c8185",
+        "android_client_info": {
+          "package_name": "community.certify.certifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700596544480-5j20vb68st9rrjlrv0oq4unnt5klhruq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ88joeBPk5_3F3Yn9ktyujH5-rshuWNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700596544480-5j20vb68st9rrjlrv0oq4unnt5klhruq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700596544480-6kfuofd21br0i6hvbd5misn9vlhcofiq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "community.certify.certifyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
