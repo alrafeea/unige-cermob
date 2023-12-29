@@ -1,6 +1,6 @@
-# certifyapp
+# unige-cermob
 
-A new Flutter application.
+Certify mobile app for the University of Geneva. For more about Certify, see [https://certify.community](https://certify.community).
 
 ## Getting Started
 
